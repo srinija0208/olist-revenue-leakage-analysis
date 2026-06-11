@@ -61,11 +61,17 @@ to identify areas where business profitability may be at risk.
 ## Project Structure
 
 ├── notebooks/
+
 │   └── pandas_exploration.ipynb
+
 ├── sql/
+
 │   └── revenue_leakage_queries.sql
+
 ├── outputs/
-│   └── dashboard.pdf          (4-page Power BI report)
+
+│   └── dashboard.pdf  (4-page Power BI report)
+
 └── README.md
 
 ## How to Use
@@ -79,10 +85,13 @@ to identify areas where business profitability may be at risk.
 ## Dashboard Preview
 
 ### Executive Summary
-![Executive Summary](outputs/executive_summary.png)
+![Executive Summary](outputs/Executive_Summary.png)
 
 ### Leakage Deep Dive
-![Leakage Deep Dive](outputs/leakage_deep_dive.png)
+![Leakage Deep Dive](outputs/Leakage_Deep_Dive.png)
+
+### Final Insights
+![Final Insights](outputs/Final_Insights.png)
 
 ### Category Drillthrough
-![Category Details](outputs/category_details.png)
+![Category Details](outputs/Category_Drillthrough.png)
